@@ -1,0 +1,7 @@
+{
+  "vaultUrl": "https://sandbox.meeco.me/vault",
+  "keystoreUrl": "https://sandbox.meeco.me/keystore",
+  "subscriptionKey": "--enter subscriptionKey --",
+  "passphrase": "--enter passphrase--",
+  "secret": "--enter secret--"
+}
